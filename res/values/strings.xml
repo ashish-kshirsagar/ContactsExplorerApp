@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ContactsExplorer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- New added -->
+    <string name="toast_icon_description">Toast Message Icon</string>
+    <string name="list_view_item_icon_description">List View Item Icon</string>
+
+    <plurals name="numberOfItemsAvailable">
+        <item quantity="zero">%d Item</item>
+        <item quantity="one">%d Item</item>
+        <item quantity="other">%d Items</item>
+    </plurals>
+
+    <string name="title_activity_contacts">ContactsActivity</string>
+	<string name="search_text_hint">Search for Contacts\.\.\.</string>
+</resources>
